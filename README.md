@@ -1,7 +1,7 @@
 <h1 align="center">Hola soy TYR <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<img align="right" width=300px alt="Unicorn" src="[https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)" />
 
- <img src="[https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fideas%2Fcoding-gifs-aesthetic%2F896913177658%2F&psig=AOvVaw1ECynbvQeybtJGNiK6EAmc&ust=1763239103867000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKiIody_8pADFQAAAAAdAAAAABAE)" width="30px">&nbsp;***About me***
+ <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
 * **I am interested in Web designing, Android development, and digital marketing**
