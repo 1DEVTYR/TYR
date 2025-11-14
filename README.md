@@ -14,8 +14,6 @@ Tengo conocimientos en ciberseguridad, desarrollo seguro y formación certificad
 
 -Java (JVM)
 
--Kotlin
-
 -Python
 
 -JavaScript / Node.js
@@ -84,7 +82,7 @@ Tengo conocimientos en ciberseguridad, desarrollo seguro y formación certificad
 <h4> LENGUAJE </h4>
 <span> 
   <img src="https://img.shields.io/badge/Google%20Cloud%20Security%20Engineer-F2C037?style=for-the-badge&logo=googlecloud&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
