@@ -19,6 +19,7 @@ Lua (scripts para GTA / FiveM)
 Shell / Bash
 HTML / CSS
 YAML / JSON
+ARDUINO IDE
 🧰 Frameworks, Librerías y Herramientas
 
 Express.js
