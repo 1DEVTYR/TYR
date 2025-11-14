@@ -79,9 +79,9 @@ Tengo conocimientos en ciberseguridad, desarrollo seguro y formación certificad
 -Prácticas avanzadas de seguridad
 
 
-## My Skills Include
+## Mis Skills Incluye
 
-<h4> Languages </h4>
+<h4> LENGUAJE </h4>
 <span> 
   <img src="https://img.shields.io/badge/Google%20Cloud%20Security%20Engineer-F2C037?style=for-the-badge&logo=googlecloud&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
