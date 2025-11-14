@@ -1,14 +1,54 @@
 <h1 align="center">Hola soy TYR <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<img align="right" width=300px alt="Unicorn" src="[https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)" />
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
-- 🌱 I’m currently learning ...
-  - Java
-  - React js
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
+👋 Hola, soy TYR
+
+Desarrollador apasionado por crear herramientas, sistemas y experiencias únicas en videojuegos y backend. Trabajo con Minecraft, Rust, GTA, Python, Node.js y el ecosistema JVM (Java).
+Tengo conocimientos en ciberseguridad, desarrollo seguro y formación certificada en Google Cloud Computing. Me encanta aprender, experimentar y construir proyectos que resuelvan problemas reales.
+
+🚀 Tecnologías y Lenguajes
+💻 Lenguajes principales
+Java (JVM)
+Kotlin
+Python
+JavaScript / Node.js
+Rust
+Lua (scripts para GTA / FiveM)
+Shell / Bash
+HTML / CSS
+YAML / JSON
+🧰 Frameworks, Librerías y Herramientas
+
+Express.js
+Spigot / Paper / Bukkit/ Mohist (Minecraft)
+FiveM / RageMP (GTA)
+Maven / Gradle
+Git & GitHub
+
+Docker (básico/intermedio)
+APIs REST
+Linux (manejo y scripting)
+
+☁️ Cloud & DevOps
+
+Google Cloud Platform
+GitHub Actions (CI/CD)
+Gestión de servidores y despliegues básicos
+
+🔐 Ciberseguridad
+
+Hardening básico de servidores
+Buenas prácticas de desarrollo seguro
+Manejo de credenciales
+Conocimientos de OWASP y vulnerabilidades comunes
+
+🌱 Actualmente aprendiendo
+
+React.js
+Arquitecturas en la nube
+Optimización de plugins y herramientas para videojuegos
+Prácticas avanzadas de seguridad
+
 - 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
