@@ -34,7 +34,7 @@ YAML / JSON
 
 Express.js
 
-Spigot / Paper / Bukkit (Minecraft)
+Spigot / Paper / Bukkit / Mohist (Minecraft)
 
 FiveM / RageMP (GTA)
 
