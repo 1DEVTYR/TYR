@@ -31,6 +31,7 @@ Tengo conocimientos en ciberseguridad, desarrollo seguro y formación certificad
 -YAML / JSON
 
 -ARDUINO IDE
+
 **🧰 Frameworks, Librerías y Herramientas**
 
 -Express.js
