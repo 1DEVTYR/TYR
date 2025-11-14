@@ -12,69 +12,70 @@ Tengo conocimientos en ciberseguridad, desarrollo seguro y formación certificad
 **🚀 Tecnologías y Lenguajes**
 **💻 Lenguajes principales**
 
-Java (JVM)
+-Java (JVM)
 
-Kotlin
+-Kotlin
 
-Python
+-Python
 
-JavaScript / Node.js
+-JavaScript / Node.js
 
-Rust
+-Rust
 
-Lua (scripts para GTA / FiveM)
+-Lua (scripts para GTA / FiveM)
 
-Shell / Bash
+-Shell / Bash
 
-HTML / CSS
+-HTML / CSS
 
-YAML / JSON
+-YAML / JSON
 
+-ARDUINO IDE
 **🧰 Frameworks, Librerías y Herramientas**
 
-Express.js
+-Express.js
 
-Spigot / Paper / Bukkit / Mohist (Minecraft)
+-Spigot / Paper / Bukkit / Mohist (Minecraft)
 
-FiveM / RageMP (GTA)
+-FiveM / RageMP (GTA)
 
-Maven / Gradle
+-Maven / Gradle
 
-Git & GitHub
+-Git & GitHub
 
-Docker (básico/intermedio)
+-Docker (básico/intermedio)
 
-APIs REST
+-APIs REST
 
-Linux (manejo y scripting)
+-Linux (manejo y scripting)
 
 **☁️ Cloud & DevOps**
 
-Google Cloud Platform
+-Google Cloud Platform
 
-GitHub Actions (CI/CD)
+-GitHub Actions (CI/CD)
 
-Gestión de servidores y despliegues básicos
+-Gestión de servidores y despliegues básicos
 
 **🔐 Ciberseguridad**
 
-Hardening básico de servidores
+-Hardening básico de servidores
 
-Buenas prácticas de desarrollo seguro
+-Buenas prácticas de desarrollo seguro
 
-Manejo de credenciales
+-Manejo de credenciales
 
-Conocimientos de OWASP y vulnerabilidades comunes
+-Conocimientos de OWASP y vulnerabilidades comunes
 
 **🌱 Actualmente aprendiendo**
 
-React.js
+-React.js
 
-Arquitecturas en la nube
+-Arquitecturas en la nube
 
-Optimización de plugins y herramientas para videojuegos
+-Optimización de plugins y herramientas para videojuegos
 
-Prácticas avanzadas de seguridad
+-Prácticas avanzadas de seguridad
 
 
 - 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
